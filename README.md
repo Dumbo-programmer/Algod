@@ -12,28 +12,12 @@ Algorithms and data-structures implemented in rust
 ```
 git clone https://github.com/Dumbo-programmer/Pro-Readme-Generator.git
 cd Algod
-cargo install
+
 ```
 
 ### Usage
 ```
 cargo run
-```
-Extra OS Dependent Steps:
-<br>**Windows:**
-
-```
-
-```
-**Linux:**
-
-```
-
-```
-**MacOS:**
-
-```
-
 ```
 
 ### Contributing
